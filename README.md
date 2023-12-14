@@ -16,6 +16,7 @@ Keep making changes to this repository. Add files, edit files, etc. All your wor
 
 ----
 
+
 ## Automatic Commits
 
 **NOTE:** VS Code AutoSave and GitDoc have been enabled for this repository; ***do not turn this off***. Check your settings to ensure that you have *GitDoc* as well as *AutoSave* for VS Code enabled for this lab.
